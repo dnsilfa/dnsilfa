@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Summary
+## ✨ About Me
 
 I'm a passionate Software Engineer currently working at Lennar Corporation, where I help build and deliver cloud-native solutions. I have hands-on experience with both Azure and AWS, and enjoy solving complex problems, automating workflows, and collaborating with others to deliver impactful software.
 
@@ -20,7 +20,7 @@ I'm a passionate Software Engineer currently working at Lennar Corporation, wher
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me!
 
 - **Email:** dnsilfa@gmail.com
 
