@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**dnsilfa/dnsilfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Danielle Silfa 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-danielle--silfa-blue?logo=linkedin)](https://linkedin.com/in/danielle-silfa)
+
+---
+
+## 🛠️ Skills
+
+- **Languages & Frameworks:** C++, Java, TypeScript, JavaScript, ReactJS
+- **Cloud & DevOps:** Azure, Azure DevOps, Bicep, Terraform, Docker, Git, GitHub Actions
+- **Tools & Technologies:** SonarQube, Snyk, Jira
+
+---
+
+## 📫 Contact
+
+- **Email:** dnsilfa@gmail.com
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/danielle-silfa)!
